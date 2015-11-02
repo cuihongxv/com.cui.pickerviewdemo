@@ -8,9 +8,5 @@
 ####使用gradle 依赖:
 ```java
    compile 'com.bigkoo:pickerview:1.0.3'
-![](https://github.com/saiwu-bigkoo/PickerView/blob/master/preview/pickerdemo.gif)
-![]
--
 ## Thanks
-
 - WheelView
